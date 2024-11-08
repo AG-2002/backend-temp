@@ -1,0 +1,22 @@
+{
+  "name": "backend-temp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AG-2002/backend-temp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AG-2002/backend-temp/issues"
+  },
+  "homepage": "https://github.com/AG-2002/backend-temp#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
